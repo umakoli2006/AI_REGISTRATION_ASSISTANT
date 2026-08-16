@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Uma",
+        "email": "umakoli1802@gmail.com",
+        "field": "Computer Science",
+        "experience": "Beginner"
+    },
+    {
+        "name": "Siri",
+        "email": "sirik1212@gmail.com",
+        "field": "Computer Science",
+        "experience": "Beginner"
+    },
+    {
+        "name": "Kiri",
+        "email": "umdh1852@gamil.com",
+        "field": "Data Science",
+        "experience": "Beginner"
+    }
+]
